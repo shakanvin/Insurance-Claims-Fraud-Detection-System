@@ -1,59 +1,14 @@
-# 📌 Insurance Claims Fraud Detection System
+The Insurance Claims Fraud Detection System is a data analytics and business analysis project designed to identify potentially fraudulent insurance claims using rule-based scoring and data-driven insights.
 
-## 📊 Overview
-This project identifies potentially fraudulent insurance claims using data analysis and rule-based scoring. It simulates real-world insurance workflows and provides actionable insights through dashboards.
+This project replicates a real-world insurance workflow by analyzing claims across multiple dimensions such as customer demographics, claim amount, claim frequency, claim type, and geographic location. A fraud scoring mechanism is implemented to flag high-risk claims, enabling faster investigation and reducing financial losses.
 
----
+The solution combines business analysis practices such as requirement gathering, KPI definition, and process optimization with technical implementation using SQL, Python, and Power BI. Interactive dashboards provide stakeholders with insights into fraud trends, high-risk customers, and operational performance.
 
-## 🎯 Objectives
-- Detect high-risk claims  
-- Reduce fraud losses  
-- Improve claim processing efficiency  
+Key capabilities include:
+- Fraud detection using business rule-based scoring
+- Identification of high-risk claims and customer patterns
+- Location-based and claim-type risk analysis
+- KPI tracking for fraud detection performance
+- Visualization of fraud trends and operational metrics
 
----
-
-## 🧠 Business Problem
-Insurance companies face financial losses due to fraudulent claims. Manual detection is slow and inefficient. This project introduces a data-driven fraud detection system.
-
----
-
-## 📂 Dataset
-- 2000 synthetic insurance claims  
-- Includes customer, claim, and fraud data  
-
----
-
-## ⚙️ Tools Used
-- SQL  
-- Power BI  
-- Python  
-- Excel  
-
----
-
-## 📊 Key Insights
-- High-value claims (> ₹4L) show higher fraud probability  
-- Frequent claims (>6) indicate risk  
-- Theft & Fire claims in metro cities show higher fraud  
-- Pending claims require investigation  
-
----
-
-## 📈 Dashboard
-- Fraud vs Non-Fraud  
-- Claim Amount Analysis  
-- Location Risk  
-- Customer Segmentation  
-
----
-
-## 🧾 Deliverables
-- BRD Document  
-- Process Flow  
-- SQL Analysis  
-- Fraud Rules Engine  
-
----
-
-## 🚀 Outcome
-Improved fraud detection efficiency and reduced manual effort.
+This project demonstrates the ability to bridge business and technology by delivering actionable insights, improving decision-making, and enhancing fraud detection efficiency in the insurance domain.
